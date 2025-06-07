@@ -4,7 +4,7 @@ A modern, responsive portfolio website built using **React**, designed to showca
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed Website](https://your-netlify-or-vercel-link.com)
+🔗 [View Deployed Website](https://bright-tartufo-1f09a1.netlify.app/)
 
 ---
 
